@@ -2,7 +2,15 @@
 
 Copyright (c) 2026 Lou Nabelgas
 
-This project is licensed under the GNU License.  
-You are free to use, copy, modify, and distribute this software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or  
+(at your option) any later version.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+This program is distributed in the hope that it will be useful,  
+but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License  
+along with this program. If not, see [GNU GPL V3.0 License Info](https://www.gnu.org/licenses/).
