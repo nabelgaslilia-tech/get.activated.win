@@ -4,8 +4,9 @@ go to https://github.com/nabelgaslilia-tech/get.activated.win/releases to get th
 
 go to windows powershell or terminal (if you have windows 11 installed in your laptop, computer, or PC.)
 
-type these 2 programs/functions one-by-one into the prompt: `cd C:\Users\Justynn\Downloads\getactivatedwin
-powershell -ExecutionPolicy Bypass -File .\myscript.ps1`.
+navigate to where you downloaded the .zip or .7z file.
+
+type this into the prompt: `powershell -ExecutionPolicy Bypass -File .\myscript.ps1`.
 
 ## editing the script
 
