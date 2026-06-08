@@ -1,7 +1,7 @@
 # get.activated.win
 
 Copyright (c) 2026 Lou Nabelgas
-Licensed under the MIT License. See LICENSE file for details.
+Licensed under the GNU License. See LICENSE file for details.
 
 <img width="50" height="50" alt="1780916680-removebg-preview" src="https://github.com/user-attachments/assets/c2e40e86-8a35-4841-ae86-a1e3b06867c6" />
 
