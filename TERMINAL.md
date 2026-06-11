@@ -8,6 +8,8 @@ navigate to where you downloaded the .zip or .7z file.
 
 type this into the prompt: `powershell -ExecutionPolicy Bypass -File .\myscript.ps1`.
 
+or just run the .bat file if you're a lazy sloth
+
 ## editing the script
 
 if you wanna see or edit the source code, right-click the .ps1 file, tap "Open With", and select "Notepad".
