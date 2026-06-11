@@ -15,7 +15,7 @@
    ```
    > **Note:** This only bypasses execution policy for this single script run and doesn't permanently change system settings.
 
-**Alternative (easier):** Simply double-click the `.bat` file if available.
+**Alternative (easier):** Simply double-click the `.bat` file if available or you're lazy.
 
 ## Editing the Script
 
