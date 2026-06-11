@@ -26,7 +26,7 @@ To view or modify the source code:
 
 **Recommended editors for better syntax highlighting:**
 - Notepad++
-- Visual Studio Code
+- Visual Studio Code (VSC for short)
 - PowerShell ISE (built-in)
 
 ## Troubleshooting
